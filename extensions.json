@@ -1,8 +1,10 @@
-{
+[
+    {
     "id": "apyhub-catalog",
     "name": "ApyHub Catalog",
     "description": "Browse and explore APIs",
     "author": "ApyHub",
     "version": "0.0.1",
     "repo": "edymusajev/catalog"
-}
+    }
+]
