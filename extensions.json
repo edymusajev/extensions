@@ -6,5 +6,13 @@
     "author": "ApyHub",
     "version": "0.0.6",
     "repo": "edymusajev/catalog"
+    },
+    {
+    "id": "fusion-game",
+    "name": "Fusion Game",
+    "description": "A lightweight, fun word scramble game extension",
+    "author": "ApyHub",
+    "version": "0.0.1",
+    "repo": "edymusajev/fusion-game"
     }
 ]
