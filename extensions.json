@@ -22,5 +22,13 @@
     "author": "ApyHub",
     "version": "0.0.1",
     "repo": "edymusajev/md-preview"
+    },
+    {
+    "id": "fusion-game-sohail",
+    "name": "Fusion Game by Sohail",
+    "description": "Abra Qa Dabra",
+    "author": "Sohail",
+    "version": "0.0.1",
+    "repo": "iamspathan/fusion-game"
     }
 ]
