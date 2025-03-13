@@ -18,7 +18,7 @@
     {
     "id": "md-preview",
     "name": "Markdown Preview",
-    "description": "Allows you to switch an active Markdown document between edit and preview modes",
+    "description": "Preview markdown files",
     "author": "ApyHub",
     "version": "0.0.1",
     "repo": "edymusajev/md-preview"
